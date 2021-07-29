@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<User>
+    <fullName>
+        <firstName>Bill</firstName>
+        <secondName>Clinton</secondName>
+        <middleName>Sosovich</middleName>
+    </fullName>
+    <birthday>2006-01-30T02:07:22+03:00</birthday>
+    <registrationDate>2021-07-22T09:02:35</registrationDate>
+    <login>s7b7xF</login>
+    <password>R7agSR</password>
+</User>

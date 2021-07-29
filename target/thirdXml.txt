@@ -1,0 +1,10 @@
+<User>
+  <fullName>
+    <firstName>Sasha</firstName>
+    <secondName>Bush</secondName>
+  </fullName>
+  <birthday>1137559032000</birthday>
+  <registrationDate>2021-07-22T09:22:11</registrationDate>
+  <login>8Vzgad</login>
+  <Masha_Password>pqh86E</Masha_Password>
+</User>

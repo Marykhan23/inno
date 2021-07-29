@@ -1,0 +1,10 @@
+{
+  "fullName" : {
+    "firstName" : "John",
+    "secondName" : "Clinton"
+  },
+  "birthday" : -1423570360000,
+  "registrationDate" : "2021-07-22T09:47:32",
+  "login" : "K4XwUG",
+  "password" : "LhqZ2F"
+}

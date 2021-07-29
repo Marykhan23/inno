@@ -1,0 +1,26 @@
+The next two questions refer to the following:
+
+Cell class reference:
+
+public class Cell {
+    public Cell(){
+    }
+    public char content;  // The character in this cell.
+    public Cell next;     // Pointer to the cell to the right of this one.
+    public Cell prev;     // Pointer to the cell to the left of this one.
+}
+
+The following method is supposed to move one node to the right in a doubly linked list of Cells but it contains a flaw.
+
+The global variable 'currentCell' is a pointer to a Cell in the list.
+
+1    public void moveRight() {
+2           if (currentCell.next == null) {
+3                Cell newCell = new Cell();
+4                newCell.content = ' ';
+5                newCell.next = null;
+6                newCell.prev = currentCell;
+7                currentCell.next = newCell;
+8                currentCell = currentCell.next;
+9                }
+10        }
